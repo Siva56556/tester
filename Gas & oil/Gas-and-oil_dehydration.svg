@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve" width="512" height="512">
+<g>
+	
+		<linearGradient id="Dehydration_00000147907650405657774030000012306455185024042920_" gradientUnits="userSpaceOnUse" x1="256" y1="512" x2="256" y2="0">
+		<stop offset="0" style="stop-color:#009EFD"/>
+		<stop offset="1" style="stop-color:#2AF598"/>
+	</linearGradient>
+	
+		<path id="Dehydration" style="fill:none;stroke:url(#Dehydration_00000147907650405657774030000012306455185024042920_);stroke-width:40;stroke-miterlimit:10;" d="&#10;&#9;&#9;M128.929,412c0-16.93,5.286-32.647,14.293-45.589L208.929,272l65.707,94.411c9.007,12.942,14.293,28.658,14.293,45.589&#10;&#9;&#9;c0,44.121-35.898,80-80,80S128.929,456.121,128.929,412z M368.929,340c0-88.365-71.634-160-160-160s-160,71.634-160,160v152h320&#10;&#9;&#9;V340z M208.929,20c-44.183,0-80,35.817-80,80s35.817,80,80,80s80-35.817,80-80S253.112,20,208.929,20z M128.894,411.417&#10;&#9;&#9;c70.888-4.335,84.523-31.572,150.079-38.04 M408.929,0v180 M348.929,120l60,60l60-60"/>
+</g>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</svg>
